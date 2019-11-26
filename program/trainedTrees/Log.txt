@@ -1,0 +1,16 @@
+base1: /trainedTrees/Discounted/dudoTrained-500kDc -- Trained 500k iterations, with first 10k using linear CFR. Time used 29196s, 17.125 its per second.
+/trainedTrees/Discounted/dt-500kDcPruned -- base1, but pruned. Actions with regretSum < -10000 are deemed unpromising.
+With set seed,
+Train 5000 iterations with prune(-10000) takes time 227.27s, 22.00 iterations per second
+Train 5000 iterations with prune(-1000) takes time 80.28s, 62.28 iterations per second
+
+/trainedTrees/Discounted/dt-600kDcPruned -- on top of base1, trained 100k times with actions with regretSum < -10000 are deemed unpromising.
+
+base2: /trainedTrees/Discounted/dt-1MDcPrunedAg -- on top of base1, trained 500k times with actions with regretSum < -1000 are deemed unpromising. 
+500,000 iterations took 7585.123 sec, 65.919 iterations per second.
+
+/trainedTrees/Discounted/dt-1MDcPrPr -- Pruning this base 2 again with prune(-1000), 995 child nodes were pruned
+/trainedTrees/Discounted/dt-2MDc -- 1MDcPrPr trained 1m times. took time 9237.22s, 108.258 iterations per second. 
+Note: There may be a problem as the game value steadily increase while training from -0.0273872 to -0.0276491.
+
+43.7867 iterations per second

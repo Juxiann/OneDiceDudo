@@ -1,0 +1,198 @@
+Dudo trained 10000 iterations. 45.75023217568951 iterations per second. 
+Theoretical game value: -0.027618147902955553
+Dudo trained 20000 iterations. 46.32550519854719 iterations per second. 
+Theoretical game value: -0.027616528149763182
+Dudo trained 30000 iterations. 45.75393113576862 iterations per second. 
+Theoretical game value: -0.02761518950176632
+Dudo trained 40000 iterations. 45.63954160324905 iterations per second. 
+Theoretical game value: -0.027615546977197192
+Dudo trained 50000 iterations. 45.74079561780062 iterations per second. 
+Theoretical game value: -0.027617063027187735
+Dudo trained 60000 iterations. 44.983290042306976 iterations per second. 
+Theoretical game value: -0.02761900919807176
+Dudo trained 70000 iterations. 45.82240043744045 iterations per second. 
+Theoretical game value: -0.027617834976504555
+Dudo trained 80000 iterations. 45.285775216256106 iterations per second. 
+Theoretical game value: -0.027616316299174673
+Dudo trained 90000 iterations. 45.27971843523292 iterations per second. 
+Theoretical game value: -0.027615118726420352
+Dudo trained 100000 iterations. 45.96779970483096 iterations per second. 
+Theoretical game value: -0.027614624279020825
+Dudo trained 110000 iterations. 45.307185856815714 iterations per second. 
+Theoretical game value: -0.027615744232654196
+Dudo trained 120000 iterations. 45.440972949640695 iterations per second. 
+Theoretical game value: -0.027618038134925815
+Dudo trained 130000 iterations. 45.14732847787086 iterations per second. 
+Theoretical game value: -0.027620554959385517
+Dudo trained 140000 iterations. 45.384802585646014 iterations per second. 
+Theoretical game value: -0.027622240012857034
+Dudo trained 150000 iterations. 45.1140441300936 iterations per second. 
+Theoretical game value: -0.02762278537494244
+Dudo trained 160000 iterations. 45.15864839935709 iterations per second. 
+Theoretical game value: -0.02762297368867676
+Dudo trained 170000 iterations. 45.26629530791591 iterations per second. 
+Theoretical game value: -0.02762224127605163
+Dudo trained 180000 iterations. 44.977679203230274 iterations per second. 
+Theoretical game value: -0.02761965694660666
+Dudo trained 190000 iterations. 45.32287247466594 iterations per second. 
+Theoretical game value: -0.027619822864596077
+Dudo trained 200000 iterations. 45.56450310737871 iterations per second. 
+Theoretical game value: -0.027620073451618536
+Dudo trained 210000 iterations. 44.36147360672525 iterations per second. 
+Theoretical game value: -0.02761937464571649
+Dudo trained 220000 iterations. 45.139873804410215 iterations per second. 
+Theoretical game value: -0.027620370635949677
+Dudo trained 230000 iterations. 44.97636212564993 iterations per second. 
+Theoretical game value: -0.027621456126523898
+Dudo trained 240000 iterations. 44.96611670237694 iterations per second. 
+Theoretical game value: -0.027622272266829107
+Dudo trained 250000 iterations. 45.15113491838536 iterations per second. 
+Theoretical game value: -0.02762347909738087
+Dudo trained 260000 iterations. 45.521019094816936 iterations per second. 
+Theoretical game value: -0.027623874695699293
+Dudo trained 270000 iterations. 44.97952955068787 iterations per second. 
+Theoretical game value: -0.027624510455622628
+Dudo trained 280000 iterations. 45.4656816402026 iterations per second. 
+Theoretical game value: -0.02762648438279842
+Dudo trained 290000 iterations. 45.512099083175194 iterations per second. 
+Theoretical game value: -0.027627062268979666
+Dudo trained 300000 iterations. 45.76814538307844 iterations per second. 
+Theoretical game value: -0.02762692569756436
+Dudo trained 310000 iterations. 45.72066804256064 iterations per second. 
+Theoretical game value: -0.027626732700185695
+Dudo trained 320000 iterations. 45.72366383356896 iterations per second. 
+Theoretical game value: -0.027626094046159445
+Dudo trained 330000 iterations. 44.54948363030928 iterations per second. 
+Theoretical game value: -0.02762658179264171
+Dudo trained 340000 iterations. 45.29819592608915 iterations per second. 
+Theoretical game value: -0.02762582711676012
+Dudo trained 350000 iterations. 44.630125271352696 iterations per second. 
+Theoretical game value: -0.027624193391007034
+Dudo trained 360000 iterations. 44.78725666004841 iterations per second. 
+Theoretical game value: -0.027621990173579466
+Dudo trained 370000 iterations. 44.54623752782078 iterations per second. 
+Theoretical game value: -0.02762055991630417
+Dudo trained 380000 iterations. 44.760686019315656 iterations per second. 
+Theoretical game value: -0.027622891478251844
+Dudo trained 390000 iterations. 45.388523485934314 iterations per second. 
+Theoretical game value: -0.027624160213237388
+Dudo trained 400000 iterations. 45.42766621602273 iterations per second. 
+Theoretical game value: -0.027623788690197548
+Dudo trained 410000 iterations. 45.06883909116619 iterations per second. 
+Theoretical game value: -0.027623391857035853
+Dudo trained 420000 iterations. 45.65826761846913 iterations per second. 
+Theoretical game value: -0.027624130612470002
+Dudo trained 430000 iterations. 45.4601032573187 iterations per second. 
+Theoretical game value: -0.02762411598651092
+Dudo trained 440000 iterations. 44.38452006729721 iterations per second. 
+Theoretical game value: -0.02762352636636877
+Dudo trained 450000 iterations. 44.26612481370737 iterations per second. 
+Theoretical game value: -0.02762123352200909
+Dudo trained 460000 iterations. 45.451171983516424 iterations per second. 
+Theoretical game value: -0.027618378078353947
+Dudo trained 470000 iterations. 45.308690945407946 iterations per second. 
+Theoretical game value: -0.02761631992483352
+Dudo trained 480000 iterations. 45.25132856616334 iterations per second. 
+Theoretical game value: -0.02761616031987789
+Dudo trained 490000 iterations. 45.55670112953292 iterations per second. 
+Theoretical game value: -0.02761698605580069
+Dudo trained 500000 iterations. 45.31728662741997 iterations per second. 
+Theoretical game value: -0.027617884819488982
+Dudo trained 510000 iterations. 45.16714871780561 iterations per second. 
+Theoretical game value: -0.02761741619043726
+Dudo trained 520000 iterations. 45.10947452879005 iterations per second. 
+Theoretical game value: -0.027616945769119314
+Dudo trained 530000 iterations. 45.540394434661835 iterations per second. 
+Theoretical game value: -0.027615789108858244
+Dudo trained 540000 iterations. 44.569480534151566 iterations per second. 
+Theoretical game value: -0.027614450258482696
+Dudo trained 550000 iterations. 44.91996625609099 iterations per second. 
+Theoretical game value: -0.027614412697772314
+Dudo trained 560000 iterations. 45.53906085795181 iterations per second. 
+Theoretical game value: -0.02761412501941353
+Dudo trained 570000 iterations. 44.40014006604321 iterations per second. 
+Theoretical game value: -0.027614040316693386
+Dudo trained 580000 iterations. 45.660651727317195 iterations per second. 
+Theoretical game value: -0.027615011706318936
+Dudo trained 590000 iterations. 45.07910992015925 iterations per second. 
+Theoretical game value: -0.027616139492554363
+Dudo trained 600000 iterations. 45.241017475089194 iterations per second. 
+Theoretical game value: -0.027616278174886332
+Dudo trained 610000 iterations. 44.585467934675044 iterations per second. 
+Theoretical game value: -0.02761567532011395
+Dudo trained 620000 iterations. 44.85652489551067 iterations per second. 
+Theoretical game value: -0.027614417898564683
+Dudo trained 630000 iterations. 44.16733499230275 iterations per second. 
+Theoretical game value: -0.027614119934654777
+Dudo trained 640000 iterations. 44.668729396610814 iterations per second. 
+Theoretical game value: -0.027614722133467422
+Dudo trained 650000 iterations. 43.774317746343016 iterations per second. 
+Theoretical game value: -0.027615050060655157
+Dudo trained 660000 iterations. 44.97173502397646 iterations per second. 
+Theoretical game value: -0.027614656380592476
+Dudo trained 670000 iterations. 44.67018465770652 iterations per second. 
+Theoretical game value: -0.027612454911246618
+Dudo trained 680000 iterations. 45.137171246178234 iterations per second. 
+Theoretical game value: -0.02761041102057847
+Dudo trained 690000 iterations. 45.406955261522214 iterations per second. 
+Theoretical game value: -0.027609229583680835
+Dudo trained 700000 iterations. 45.56798743542846 iterations per second. 
+Theoretical game value: -0.027610126640486548
+Dudo trained 710000 iterations. 45.10978177609187 iterations per second. 
+Theoretical game value: -0.027611137862005274
+Dudo trained 720000 iterations. 44.10391594871453 iterations per second. 
+Theoretical game value: -0.027611010461848735
+Dudo trained 730000 iterations. 43.81454265595502 iterations per second. 
+Theoretical game value: -0.02761138496859163
+Dudo trained 740000 iterations. 43.144486588978644 iterations per second. 
+Theoretical game value: -0.02761114855868123
+Dudo trained 750000 iterations. 43.50612722532272 iterations per second. 
+Theoretical game value: -0.02761134466844844
+Dudo trained 760000 iterations. 42.32337234077088 iterations per second. 
+Theoretical game value: -0.027612301318043
+Dudo trained 770000 iterations. 41.80823515708068 iterations per second. 
+Theoretical game value: -0.027611302966138673
+Dudo trained 780000 iterations. 40.63394221617699 iterations per second. 
+Theoretical game value: -0.02760979078905267
+Dudo trained 790000 iterations. 39.69868459272786 iterations per second. 
+Theoretical game value: -0.02760899367323558
+Dudo trained 800000 iterations. 39.58421519169514 iterations per second. 
+Theoretical game value: -0.02760872639207028
+Dudo trained 810000 iterations. 39.1802921989852 iterations per second. 
+Theoretical game value: -0.02760988829880491
+Dudo trained 820000 iterations. 39.543166677443146 iterations per second. 
+Theoretical game value: -0.027609344855640913
+Dudo trained 830000 iterations. 39.712176215116564 iterations per second. 
+Theoretical game value: -0.02760883615993601
+Dudo trained 840000 iterations. 40.41233246508485 iterations per second. 
+Theoretical game value: -0.027609234775444177
+Dudo trained 850000 iterations. 42.52256235547945 iterations per second. 
+Theoretical game value: -0.02760906777230834
+Dudo trained 860000 iterations. 41.12473105404577 iterations per second. 
+Theoretical game value: -0.027608956770073485
+Dudo trained 870000 iterations. 40.273349962755276 iterations per second. 
+Theoretical game value: -0.0276075603995334
+Dudo trained 880000 iterations. 41.683597578829186 iterations per second. 
+Theoretical game value: -0.027605459589029338
+Dudo trained 890000 iterations. 42.28015894473872 iterations per second. 
+Theoretical game value: -0.02760270235505045
+Dudo trained 900000 iterations. 41.674834227880815 iterations per second. 
+Theoretical game value: -0.02760173900007726
+Dudo trained 910000 iterations. 42.19590440039101 iterations per second. 
+Theoretical game value: -0.02760237378124876
+Dudo trained 920000 iterations. 41.53443589088199 iterations per second. 
+Theoretical game value: -0.027602235333263375
+Dudo trained 930000 iterations. 43.11589460413446 iterations per second. 
+Theoretical game value: -0.027600562150030167
+Dudo trained 940000 iterations. 42.50227137097702 iterations per second. 
+Theoretical game value: -0.027598367477298793
+Dudo trained 950000 iterations. 42.27314784100432 iterations per second. 
+Theoretical game value: -0.027597690949402273
+Dudo trained 960000 iterations. 41.19071057783205 iterations per second. 
+Theoretical game value: -0.02759776592158469
+Dudo trained 970000 iterations. 41.51115113425923 iterations per second. 
+Theoretical game value: -0.027597666189881194
+Dudo trained 980000 iterations. 41.54859027316938 iterations per second. 
+Theoretical game value: -0.027597429745419635
+Dudo trained 990000 iterations. 42.47646440980466 iterations per second. 
+Theoretical game value: -0.0275983232621488
